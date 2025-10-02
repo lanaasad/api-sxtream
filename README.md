@@ -1,1 +1,1 @@
-# api.sxtrea
+# api-sxtream
